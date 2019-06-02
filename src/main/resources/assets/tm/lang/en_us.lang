@@ -1,0 +1,6 @@
+//Items
+item.ruby.name=Ruby
+item.flower.name=Flower
+
+//Blocks
+tile.ruby_block.name=Block of Ruby
