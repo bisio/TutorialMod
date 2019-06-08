@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "DD"
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:dirt",
+            "data": 0
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:coal",
+        "data": 0,
+        "count": 1
+    }
+}
