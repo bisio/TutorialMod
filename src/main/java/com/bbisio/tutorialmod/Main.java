@@ -1,5 +1,6 @@
 package com.bbisio.tutorialmod;
 
+import com.bbisio.tutorialmod.init.ModRecipes;
 import com.bbisio.tutorialmod.proxy.CommonProxy;
 import com.bbisio.tutorialmod.util.Reference;
 
@@ -28,7 +29,7 @@ public class Main {
 	
 	@EventHandler
 	public static void init(FMLInitializationEvent event) {
-		
+		ModRecipes.init();
 	}
 	
 	@EventHandler
